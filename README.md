@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/harsh-kk/Bhim"><img src="https://ibb.co/JzxGwpL" alt="Bhim"></a>
+  <a href="https://github.com/harsh-kk/Bhim"><img src="https://i.ibb.co/2j8C1M2/gada.png" alt="Bhim"></a>
   <br>
   Bhim
   <br>
 </h1>
 
-<h4 align="center">HTTP Parameter Discovery Suite</h4>
+<h4 align="center">HTTP Parameter Discovery Engine</h4>
 
 <p align="center">
   <a href="https://github.com/harsh-kk/Bhim/releases">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-![demo](https://ibb.co/fFLq2T2)
+![demo](https://i.ibb.co/g9hm3c3/Screenshot-from-2020-04-24-18-05-13.png)
 
 ### Introduction
 Web applications use parameters (or queries) to accept user input, take the following example into consideration
@@ -51,10 +51,10 @@ An index of options is given below:
 - [Choosing number of threads](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#multi-threading)
 - [Handling Delay between requests](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#delay-between-requests)
 - [Handling Rate limits](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#handling-rate-limits)
-- [Delay between requests]https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#delay-between-requests)
+- [Delay between requests](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#delay-between-requests)
 - [Including Presistent data](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#including-persistent-data)
 - [Saving Output to a file](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#saving-output-to-a-file)
-- [Adding custom HTTP headers]https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#adding-http-headers)
+- [Adding custom HTTP headers](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim#adding-http-headers)
 
 ##### Credits
 The parameter names are taken from [@SecLists](https://github.com/danielmiessler/SecLists).
