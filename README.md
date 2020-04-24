@@ -58,3 +58,6 @@ An index of options is given below:
 
 ##### Credits
 The parameter names are taken from [@SecLists](https://github.com/danielmiessler/SecLists).
+
+#### contact
+> Get in touch [twitter](https://twitter.com/xploitprotocol)
