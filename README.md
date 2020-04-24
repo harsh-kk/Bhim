@@ -42,7 +42,7 @@ Want to know how Bhim does that? [Here's how](https://github.com/harsh-kk/Bhim/w
 
 #### How to use Bhim?
 
-A detailed usage guide is available on [Usage](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim) section of the Wiki.\
+A detailed usage guide is available on [Usage](https://github.com/harsh-kk/Bhim/wiki/How-to-use-Bhim) section of the Wiki.
 
 An index of options is given below:
 
