@@ -20,11 +20,11 @@
 ![demo](https://i.ibb.co/g9hm3c3/Screenshot-from-2020-04-24-18-05-13.png)
 
 ### Introduction
-Web applications use parameters (or queries) to accept user input, take the following example into consideration
+As Web applications uses the parameters (or queries) to accept input from user,lets take the following example into the  consideration
 
 `http://api.example.com/v2/userinfo?id=751658590`
 
-This URL seems to load user information for a specific user id, but what if there exists a parameter named `admin` which when set to `True` makes the endpoint provide more information about the user?\
+The above URL seems to load user information for a specific user id(i.e 751658590), but what if there exists a parameter named `admin` which when set to `True` makes the endpoint provide more information about the user?
 This is what Bhim does, it finds valid HTTP parameters with a huge default dictionary of 25,980 parameter names.
 
 The best part? It takes less than 30 seconds to go through this huge list while making just 50-60 requests to the target.\
